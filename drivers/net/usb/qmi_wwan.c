@@ -542,3 +542,4 @@ module_exit(qmi_wwan_exit);
 MODULE_AUTHOR("Bjørn Mork <bjorn@mork.no>");
 MODULE_DESCRIPTION("Qualcomm MSM Interface (QMI) WWAN driver");
 MODULE_LICENSE("GPL");
+
